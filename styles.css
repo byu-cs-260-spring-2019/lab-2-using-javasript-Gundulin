@@ -1,0 +1,55 @@
+#top {
+    background-color: aliceblue;
+    color: black;
+    padding: .5em;
+    padding-left: .25in;
+}
+
+#forecastResults {
+    background-color: rgba(240, 248, 255, 0.5);
+    color: black;
+    text-align: center;
+}
+
+#forecastHead {
+    background-color: aliceblue;
+    text-align: center;
+    display: block;
+    color: black;
+}
+
+body {
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/cs260projects-arts.appspot.com/o/images%2FClouds.jpg?alt=media&token=94c7fef8-ddc5-404a-ac40-2889e4e1ca92");
+    color: black;
+    margin: .01in;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#weatherResults {
+    background-color: rgba(240, 248, 255, 0.5);
+    color: black;
+    align-content: center;
+    align-self: center;
+}
+
+#fiveDay {
+    display: inline-block;
+    width: 2.5in;
+    text-align: center;
+    border: solid;
+    height: 3in;
+    border-color:  rgba(0, 0, 128, 0.589);
+}
+
+#WR {
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
+
+#temper {
+    font-weight: bold;
+    font-size: 42px;
+}
